@@ -94,7 +94,9 @@ tr:nth-child(even) {
   .main-header h1 {
     font-size: 1.8rem;
   }
-
+.contact{
+  margin-top: 10px;
+}
   .contact p {
     font-size: 14px;
     margin: 0px;
